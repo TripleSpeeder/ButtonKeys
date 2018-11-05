@@ -28,7 +28,7 @@ void loop() {
         //Serial.println(btnKeys[i]);
         Keyboard.press(btnKeys[i]);
     } else if (debouncers[i].rose()){
-        //Serial.print("INPUT_PULLUP LOW -> Sending KEYUP for ");
+        //Serial.print("INPUT_PULLUP HIGH -> Sending KEYUP for ");
         //Serial.println(btnKeys[i]);
         Keyboard.release(btnKeys[i]);
     }
