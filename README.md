@@ -11,5 +11,3 @@ Tiny arduino sketch to have foot switches generate key presses. I'm using this f
 
 ![overview](https://i.imgur.com/pltB6Se.jpg)
 ![open case](https://i.imgur.com/De2ME7T.jpg)
-
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
